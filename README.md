@@ -131,9 +131,9 @@ The internship focused on developing a practical foundation in **Data Science**,
 
 ```
 ├── Internship_Report_Sagar_Rana.docx          # Full internship report
-├── Siemens_Data_Science_Master_Internship.pptx # Presentation deck
-├── Certificate_of_Internship.png               # Completion certificate
-├── Internship_Offer_Letter.png                 # Offer letter
+├── PPT_Siemens_Data_Science_Master_Internship.pptx # Presentation deck
+├── Certificate_of_Internship.pdf               # Completion certificate
+├── Internship_Offer_Letter.pdf                 # Offer letter
 └── README.md                                   # This file
 ```
 
